@@ -1,0 +1,5 @@
+print("{} {}" .format("jeden", "dwa"))
+print("{} {}" . format( 1 ,  2 ))
+print("{1} {0}" .format("jeden", "dwa"))
+print('{: {prec}} = {: {prec}}' . format('Gibberish', 2.7182, prec='.3'))
+print('{: = 5d}' . format((-  23)))
