@@ -1,2 +1,2 @@
 # Catering
-![](db_shema.png)
+![](db_%20shema.png)
